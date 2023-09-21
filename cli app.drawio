@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-21T11:38:16.824Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0" etag="a27TrnITLlBLa4cfJhP_" version="21.8.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-09-21T12:22:10.794Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0" etag="aavWterd9Zkj9wwkTq-k" version="21.8.0" type="github" pages="5">
   <diagram name="CLI-app" id="19F6IEHBU7y040fCn14k">
     <mxGraphModel dx="2534" dy="1167" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -126,20 +126,140 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LyEQCibrR4L51hIpt30y" name="Pull request bot">
-    <mxGraphModel dx="939" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1174" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="f6D9AY1i1ujLEHGKGXB5-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="80" y="280" width="80" height="80" as="geometry" />
+        <mxCell id="f6D9AY1i1ujLEHGKGXB5-1" value="&lt;div&gt;Gog git-server&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="tKNuQPo6nZbaQXCj-rUX-1" value="&lt;div&gt;Een&amp;nbsp;&lt;/div&gt;&lt;div&gt;AI-service&lt;/div&gt;&lt;div&gt;(self hosted of&amp;nbsp;&lt;/div&gt;&lt;div&gt;maintained)&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="tKNuQPo6nZbaQXCj-rUX-1" value="AI service" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="80" y="80" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="QvUfaSa_ARFEEBRzw2Tk-1" value="Pull request bot Service" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="80" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zxoUHNoSP8ANLOJCx7Ux-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="140" y="490" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zxoUHNoSP8ANLOJCx7Ux-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="zxoUHNoSP8ANLOJCx7Ux-1">
+          <mxGeometry width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zxoUHNoSP8ANLOJCx7Ux-3" value="Ontwikkelaar" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="zxoUHNoSP8ANLOJCx7Ux-1">
+          <mxGeometry x="45" y="30" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zxoUHNoSP8ANLOJCx7Ux-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="280" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="Mg8v1b6Tj64Je1mn7FDo" name="Pagina-3">
+  <diagram id="Mg8v1b6Tj64Je1mn7FDo" name="Test-Flight">
+    <mxGraphModel dx="1341" dy="917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sXrauWIT8EhfgvqSN-xa-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="80" y="160" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="sXrauWIT8EhfgvqSN-xa-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="sXrauWIT8EhfgvqSN-xa-1">
+          <mxGeometry width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="sXrauWIT8EhfgvqSN-xa-3" value="Ontwikkelaar" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="sXrauWIT8EhfgvqSN-xa-1">
+          <mxGeometry x="45" y="30" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I3hsfymST0xDMOturKA8-1" value="Apple test flight program" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="160" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="I3hsfymST0xDMOturKA8-2" value="Request bot" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="I3hsfymST0xDMOturKA8-3" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="560" y="160" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="I3hsfymST0xDMOturKA8-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="I3hsfymST0xDMOturKA8-3">
+          <mxGeometry width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="I3hsfymST0xDMOturKA8-5" value="Gebruiker" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="I3hsfymST0xDMOturKA8-3">
+          <mxGeometry x="45" y="30" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gqt4LxbEBThGeIOzT1uN-1" value="&lt;div&gt;AI service&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="640" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Gqt4LxbEBThGeIOzT1uN-4" value="&lt;div&gt;Database&lt;/div&gt;&lt;div&gt;resultaten&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="80" y="400" width="120" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="fHqiE8YXjSHxqW0Hr44S" name="Bedrijfsprocess">
+    <mxGraphModel dx="1341" dy="917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yghJpx__Ue1DNXFgRrQd-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;endArrow=block;endFill=1;" edge="1" parent="1" source="yghJpx__Ue1DNXFgRrQd-2" target="yghJpx__Ue1DNXFgRrQd-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yghJpx__Ue1DNXFgRrQd-2" value="&lt;div&gt;Aanbestedings-&lt;/div&gt;&lt;div&gt;traject&lt;/div&gt;&lt;div&gt;start&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="60" y="320" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yghJpx__Ue1DNXFgRrQd-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=block;endFill=1;" edge="1" parent="1" source="yghJpx__Ue1DNXFgRrQd-3" target="yghJpx__Ue1DNXFgRrQd-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yghJpx__Ue1DNXFgRrQd-3" value="&lt;div&gt;Requirement-&lt;/div&gt;&lt;div&gt;analyses&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="240" y="320" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yghJpx__Ue1DNXFgRrQd-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=block;endFill=1;" edge="1" parent="1" source="yghJpx__Ue1DNXFgRrQd-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yghJpx__Ue1DNXFgRrQd-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=block;endFill=1;" edge="1" parent="1" source="yghJpx__Ue1DNXFgRrQd-13" target="yghJpx__Ue1DNXFgRrQd-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yghJpx__Ue1DNXFgRrQd-13" value="Ontwikkelen" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="420" y="320" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yghJpx__Ue1DNXFgRrQd-16" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="220" y="490" width="500" height="217" as="geometry" />
+        </mxCell>
+        <mxCell id="yghJpx__Ue1DNXFgRrQd-12" value="Herhalen tot" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#000000;shadow=0;dashed=0;shape=mxgraph.ios7.icons.reload;" vertex="1" parent="yghJpx__Ue1DNXFgRrQd-16">
+          <mxGeometry x="238" width="24" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="yghJpx__Ue1DNXFgRrQd-15" value="" style="group" vertex="1" connectable="0" parent="yghJpx__Ue1DNXFgRrQd-16">
+          <mxGeometry y="62" width="500" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="yghJpx__Ue1DNXFgRrQd-5" value="Doen" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="yghJpx__Ue1DNXFgRrQd-15">
+          <mxGeometry x="20" y="55" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yghJpx__Ue1DNXFgRrQd-6" value="Actief" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="yghJpx__Ue1DNXFgRrQd-15">
+          <mxGeometry x="200" y="55" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yghJpx__Ue1DNXFgRrQd-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="yghJpx__Ue1DNXFgRrQd-15" source="yghJpx__Ue1DNXFgRrQd-5" target="yghJpx__Ue1DNXFgRrQd-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yghJpx__Ue1DNXFgRrQd-7" value="gereed" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="yghJpx__Ue1DNXFgRrQd-15">
+          <mxGeometry x="380" y="55" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yghJpx__Ue1DNXFgRrQd-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="yghJpx__Ue1DNXFgRrQd-15" source="yghJpx__Ue1DNXFgRrQd-6" target="yghJpx__Ue1DNXFgRrQd-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yghJpx__Ue1DNXFgRrQd-8" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="yghJpx__Ue1DNXFgRrQd-15">
+          <mxGeometry x="225" y="-225" width="50" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="9PPLvgFZm508d73WbHtd-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;endArrow=block;endFill=1;" edge="1" parent="1" source="yghJpx__Ue1DNXFgRrQd-19" target="9PPLvgFZm508d73WbHtd-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yghJpx__Ue1DNXFgRrQd-19" value="Oplevering" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="600" y="320" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9PPLvgFZm508d73WbHtd-1" value="&lt;div&gt;Service level&lt;/div&gt;&lt;div&gt;agreement&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="770" y="320" width="100" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ZX9AyQO0yqWR-cbrWoYQ" name="Devops-flow">
     <mxGraphModel dx="939" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
