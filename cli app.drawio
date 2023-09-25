@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-25T18:48:07.288Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0" etag="soMNiiCApw8uWl5NfYc9" version="21.7.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-09-25T18:49:20.000Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0" etag="VWK5kcox5VZYrbEOiBtl" version="21.7.4" type="github" pages="8">
   <diagram id="_qvkCllRwGD3y9JgfjzR" name="CLI-app-internal">
     <mxGraphModel dx="2074" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -510,7 +510,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EkUjQLAIJXxrLeZyOaVu-1" value="&lt;div&gt;Gogs&lt;/div&gt;&lt;div&gt;Git server&lt;br&gt;&lt;/div&gt;&lt;div&gt;(self hosted)&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;direction=south;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="EkUjQLAIJXxrLeZyOaVu-1" value="&lt;div&gt;Gogs&lt;/div&gt;&lt;div&gt;Git server&lt;br&gt;&lt;/div&gt;&lt;div&gt;(extern)&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;direction=south;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="520" y="680" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="nLTfewgNt9QupEuhvcFU-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IMpWJGgOj3fsrbJEWBtm-7" target="I3hsfymST0xDMOturKA8-2">
@@ -534,7 +534,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IMpWJGgOj3fsrbJEWBtm-7" value="&lt;div&gt;Drone&lt;br&gt;&lt;/div&gt;&lt;div&gt;CI/CD straat&lt;/div&gt;&lt;div&gt;(self hosted)&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;direction=south;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="IMpWJGgOj3fsrbJEWBtm-7" value="&lt;div&gt;Drone&lt;br&gt;&lt;/div&gt;&lt;div&gt;CI/CD straat&lt;/div&gt;&lt;div&gt;(extern)&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;direction=south;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="320" y="680" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="s72rA8Igqlx7_nPHb-61-1" value="Autenicatie-service" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
