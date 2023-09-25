@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-25T18:49:20.000Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0" etag="VWK5kcox5VZYrbEOiBtl" version="21.7.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-09-25T18:50:18.044Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0" etag="cs8Z_isv0rrawsa3doub" version="21.7.4" type="github" pages="8">
   <diagram id="_qvkCllRwGD3y9JgfjzR" name="CLI-app-internal">
     <mxGraphModel dx="2074" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -283,7 +283,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f6D9AY1i1ujLEHGKGXB5-1" value="&lt;div&gt;Gogs&lt;/div&gt;&lt;div&gt;Git server&lt;br&gt;&lt;/div&gt;&lt;div&gt;(self hosted)&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="f6D9AY1i1ujLEHGKGXB5-1" value="&lt;div&gt;Gogs&lt;/div&gt;&lt;div&gt;Git server&lt;br&gt;&lt;/div&gt;&lt;div&gt;(extern)&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-200" y="560" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="A3BKoDU_UIc8eK-ybbX--2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QvUfaSa_ARFEEBRzw2Tk-1" target="ka7juJwLVQxN1Kg1omi_-2">
@@ -332,7 +332,7 @@
             <mxPoint x="-38" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zxoUHNoSP8ANLOJCx7Ux-5" value="&lt;div&gt;Drone CI/CD&lt;/div&gt;(self hosted)" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="zxoUHNoSP8ANLOJCx7Ux-5" value="&lt;div&gt;Drone CI/CD&lt;/div&gt;(extern)" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-200" y="360" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="_WwdPEmOl7ssKbJG2lm9-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ka7juJwLVQxN1Kg1omi_-2" target="QvUfaSa_ARFEEBRzw2Tk-1">
