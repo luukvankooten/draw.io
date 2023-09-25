@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-25T18:50:18.044Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0" etag="cs8Z_isv0rrawsa3doub" version="21.7.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-09-25T18:51:10.684Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0" etag="p94lh4r0NBrv2JrC5X8o" version="21.7.4" type="github" pages="8">
   <diagram id="_qvkCllRwGD3y9JgfjzR" name="CLI-app-internal">
     <mxGraphModel dx="2074" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -135,7 +135,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iIQyyENJ2yBSxNIPr8Lr-36" value="&lt;div&gt;Gogs&lt;/div&gt;&lt;div&gt;Git server&lt;br&gt;&lt;/div&gt;&lt;div&gt;(self hosted)&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;direction=south;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="iIQyyENJ2yBSxNIPr8Lr-36" value="&lt;div&gt;Gogs&lt;/div&gt;&lt;div&gt;Git server&lt;br&gt;&lt;/div&gt;&lt;div&gt;(extern)&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;direction=south;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="500" y="120" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="RplXrk5PMKmL-Jb51DoH-8" value="Autenicatie-service" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -197,7 +197,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iIQyyENJ2yBSxNIPr8Lr-22" value="Command line applicatie" style="whiteSpace=wrap;html=1;aspect=fixed;direction=south;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="690" y="-69.9964705882353" width="120" height="120" as="geometry" />
+          <mxGeometry x="680" y="-69.9964705882353" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="sUYWuGfB1Y0UPIABjxLl-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sUYWuGfB1Y0UPIABjxLl-4" target="iIQyyENJ2yBSxNIPr8Lr-22">
           <mxGeometry relative="1" as="geometry">
@@ -220,8 +220,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sUYWuGfB1Y0UPIABjxLl-4" value="&lt;div&gt;Drone CI/CD&lt;/div&gt;&lt;div&gt;(self hosted)&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;direction=south;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="490" y="-70" width="120" height="120" as="geometry" />
+        <mxCell id="sUYWuGfB1Y0UPIABjxLl-4" value="&lt;div&gt;Drone CI/CD&lt;/div&gt;&lt;div&gt;(extern)&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;direction=south;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-70" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="sUYWuGfB1Y0UPIABjxLl-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="9t9XVMG57SSnMw09adY2-20" target="9t9XVMG57SSnMw09adY2-1">
           <mxGeometry relative="1" as="geometry">
