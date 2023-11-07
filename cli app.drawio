@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-07T10:19:46.972Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/119.0" etag="WseL-IjL53FUN6N3ZNn9" version="22.0.8" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-11-07T10:20:53.577Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/119.0" etag="WFxzwSZm_Mohk2AyzhuI" version="22.0.8" type="github" pages="13">
   <diagram id="_qvkCllRwGD3y9JgfjzR" name="CLI-app-internal">
     <mxGraphModel dx="954" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1806,7 +1806,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1zEsjm6ja_RKO7qfb-VW" name="Integratie service">
-    <mxGraphModel dx="1908" dy="2384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1590" dy="2170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1940,7 +1940,7 @@
             <mxPoint x="8" y="21" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pkQT1s5D0Pu6FZoMtqAc-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="sZ18O2wWDADSXXDVJH34-7" target="pkQT1s5D0Pu6FZoMtqAc-1" edge="1">
+        <mxCell id="pkQT1s5D0Pu6FZoMtqAc-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="sZ18O2wWDADSXXDVJH34-7" target="pkQT1s5D0Pu6FZoMtqAc-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1eFxeOxqHqwX8GI2UmUA-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="pkQT1s5D0Pu6FZoMtqAc-1" target="1eFxeOxqHqwX8GI2UmUA-8" edge="1">
