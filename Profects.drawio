@@ -1,9 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2023-12-21T09:18:45.688Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:120.0) Gecko/20100101 Firefox/120.0" version="22.1.11" etag="syeifjge_7PlH1nBfQIb" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-22T08:32:49.095Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:120.0) Gecko/20100101 Firefox/120.0" etag="ANJfxTReF8qH3vyoATYU" version="22.1.11" type="github">
   <diagram name="Pagina-1" id="Y8hZLzQplWYDVuOa4qmt">
-    <mxGraphModel>
+    <mxGraphModel dx="795" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6i5aWdYPucwCUViPQl8z-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6i5aWdYPucwCUViPQl8z-1" target="6i5aWdYPucwCUViPQl8z-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6i5aWdYPucwCUViPQl8z-21" value="100%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6i5aWdYPucwCUViPQl8z-17">
+          <mxGeometry x="-0.1905" y="-2" relative="1" as="geometry">
+            <mxPoint x="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6i5aWdYPucwCUViPQl8z-1" value="&lt;div&gt;Profects Group BV&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6i5aWdYPucwCUViPQl8z-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6i5aWdYPucwCUViPQl8z-2" target="6i5aWdYPucwCUViPQl8z-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6i5aWdYPucwCUViPQl8z-20" value="50%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6i5aWdYPucwCUViPQl8z-13">
+          <mxGeometry x="-0.2511" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6i5aWdYPucwCUViPQl8z-2" value="&lt;div&gt;Baralex BV&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6i5aWdYPucwCUViPQl8z-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6i5aWdYPucwCUViPQl8z-3" target="6i5aWdYPucwCUViPQl8z-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6i5aWdYPucwCUViPQl8z-15" value="50%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6i5aWdYPucwCUViPQl8z-14">
+          <mxGeometry x="-0.0784" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6i5aWdYPucwCUViPQl8z-3" value="&lt;div&gt;Tracs Holding BV&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6i5aWdYPucwCUViPQl8z-4" value="Profects BV" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6i5aWdYPucwCUViPQl8z-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6i5aWdYPucwCUViPQl8z-5" target="6i5aWdYPucwCUViPQl8z-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6i5aWdYPucwCUViPQl8z-12" value="100%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6i5aWdYPucwCUViPQl8z-11">
+          <mxGeometry x="0.0833" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6i5aWdYPucwCUViPQl8z-5" value="&lt;div&gt;Centino Schreuder&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6i5aWdYPucwCUViPQl8z-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6i5aWdYPucwCUViPQl8z-6" target="6i5aWdYPucwCUViPQl8z-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6i5aWdYPucwCUViPQl8z-10" value="100%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6i5aWdYPucwCUViPQl8z-9">
+          <mxGeometry x="0.0417" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6i5aWdYPucwCUViPQl8z-6" value="&lt;div&gt;Bart van Kleef&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
