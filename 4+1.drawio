@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-08T14:50:35.376Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="kF6H873PPcO0X-OjoXsB" version="23.1.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-03-09T09:22:48.335Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="InxTz_OssjQGBGE5Bqfn" version="23.1.1" type="github" pages="5">
   <diagram name="Process view" id="xtW_IwAfQOxbv-dFsDVF">
     <mxGraphModel dx="1909" dy="1427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -290,20 +290,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="IB757KB3DciHIDIp1EKN-1" value="Drone CI" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="360" height="280" as="geometry" />
+        <mxCell id="IB757KB3DciHIDIp1EKN-1" value="&amp;lt;&amp;lt;Device&amp;gt;&amp;gt;&lt;br&gt;: Drone CI" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="440" height="280" as="geometry" />
         </mxCell>
         <mxCell id="8D18BodJRawXIVwckZ6U-1" value="&amp;lt;&amp;lt;Device&amp;gt;&amp;gt;&lt;br&gt;: Cloud Mac Mini" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="40" y="360" width="360" height="710" as="geometry" />
         </mxCell>
-        <mxCell id="8D18BodJRawXIVwckZ6U-3" value="&amp;lt;&amp;lt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="70" y="90" width="180" height="200" as="geometry" />
+        <mxCell id="8D18BodJRawXIVwckZ6U-3" value="&amp;lt;&amp;lt;Device&amp;gt;&amp;gt;&lt;br&gt;: integration service" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="70" y="90" width="180" height="140" as="geometry" />
         </mxCell>
         <mxCell id="8D18BodJRawXIVwckZ6U-4" value="&amp;lt;&amp;lt;Device&amp;gt;&amp;gt;&lt;br&gt;: Simulator" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="85" y="590" width="250" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="8D18BodJRawXIVwckZ6U-5" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Expo Server&lt;br&gt;&lt;/b&gt;" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="120" y="450" width="180" height="60" as="geometry" />
+        <mxCell id="8D18BodJRawXIVwckZ6U-5" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Expo Dev Server&lt;br&gt;&lt;/b&gt;" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="130" y="440" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8D18BodJRawXIVwckZ6U-6" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Expo GO&lt;br&gt;&lt;/b&gt;" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="120" y="670" width="180" height="60" as="geometry" />
@@ -313,6 +313,17 @@
         </mxCell>
         <mxCell id="8D18BodJRawXIVwckZ6U-7" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;JavaScript App Bundle&lt;br&gt;&lt;/b&gt;" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="120" y="760" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8D18BodJRawXIVwckZ6U-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=120;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="8D18BodJRawXIVwckZ6U-5" target="8D18BodJRawXIVwckZ6U-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8D18BodJRawXIVwckZ6U-10" value="HTTPS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8D18BodJRawXIVwckZ6U-9">
+          <mxGeometry x="0.164" y="3" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8D18BodJRawXIVwckZ6U-11" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;WebSocket Server&lt;br&gt;&lt;/b&gt;" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="85" y="150" width="135" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
