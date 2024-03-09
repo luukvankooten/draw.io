@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-09T09:22:48.335Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="InxTz_OssjQGBGE5Bqfn" version="23.1.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-03-09T09:23:35.033Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="SGsxoS6CvYxKRBkaDReo" version="23.1.1" type="github" pages="5">
   <diagram name="Process view" id="xtW_IwAfQOxbv-dFsDVF">
     <mxGraphModel dx="1909" dy="1427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -286,15 +286,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QDdHJWLVrGnu7wIsBkoi" name="Physical view">
-    <mxGraphModel dx="904" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1754" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="IB757KB3DciHIDIp1EKN-1" value="&amp;lt;&amp;lt;Device&amp;gt;&amp;gt;&lt;br&gt;: Drone CI" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="440" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="8D18BodJRawXIVwckZ6U-1" value="&amp;lt;&amp;lt;Device&amp;gt;&amp;gt;&lt;br&gt;: Cloud Mac Mini" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="40" y="360" width="360" height="710" as="geometry" />
+        <mxCell id="8D18BodJRawXIVwckZ6U-1" value="&amp;lt;&amp;lt;Device&amp;gt;&amp;gt;&lt;br&gt;: Cloud Mac Mini" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=west;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-135" y="390" width="710" height="505" as="geometry" />
         </mxCell>
         <mxCell id="8D18BodJRawXIVwckZ6U-3" value="&amp;lt;&amp;lt;Device&amp;gt;&amp;gt;&lt;br&gt;: integration service" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="70" y="90" width="180" height="140" as="geometry" />
