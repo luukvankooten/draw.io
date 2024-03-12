@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T08:24:00.075Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="JoYTs-3mKSoCXw7KYxv1" version="23.1.1" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-03-12T08:26:07.966Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="8K1bC836pF-a28q4bXpR" version="23.1.1" type="github" pages="9">
   <diagram name="Process view" id="xtW_IwAfQOxbv-dFsDVF">
     <mxGraphModel dx="2074" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -723,6 +723,11 @@
               <mxPoint x="-60" y="230" />
               <mxPoint x="-270" y="230" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MekHf8AUGCCIJrN0aow_-4" value="use" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MekHf8AUGCCIJrN0aow_-1">
+          <mxGeometry x="-0.0391" y="2" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_2w_KYmjHKZsVjX7bust-26" value="«Component»&lt;b&gt;&lt;br&gt;Websocket&lt;br&gt;server&lt;br&gt;&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
