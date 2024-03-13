@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T19:23:09.924Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="DjcBZpq9ohMBsaVjnieO" version="24.0.4" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-03-13T19:27:33.404Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="O9zyVIuU9vKUUyMCv_Ly" version="24.0.4" type="github" pages="9">
   <diagram name="Process view" id="xtW_IwAfQOxbv-dFsDVF">
     <mxGraphModel dx="1885" dy="1005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -465,24 +465,24 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QDdHJWLVrGnu7wIsBkoi" name="Physical view">
-    <mxGraphModel dx="2440" dy="2170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2924" dy="2206" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4bXAtMRyAUHg97MmAKMX-37" value="&amp;lt;&amp;lt;Device&amp;gt;&amp;gt;&lt;br&gt;: Slack Server" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="4bXAtMRyAUHg97MmAKMX-37" value="&amp;lt;&amp;lt;Device&amp;gt;&amp;gt;&lt;br&gt;: Slack Server" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=#f5c242;" parent="1" vertex="1">
           <mxGeometry x="-360" y="360" width="190" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="IB757KB3DciHIDIp1EKN-1" value="&amp;lt;&amp;lt;Device&amp;gt;&amp;gt;&lt;br&gt;: Drone CI Server" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="IB757KB3DciHIDIp1EKN-1" value="&amp;lt;&amp;lt;Device&amp;gt;&amp;gt;&lt;br&gt;: Drone CI Server" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=#4d70bd;" parent="1" vertex="1">
           <mxGeometry x="-360" y="-60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="8D18BodJRawXIVwckZ6U-1" value="&amp;lt;&amp;lt;Device&amp;gt;&amp;gt;&lt;br&gt;: Cloud Mac Mini" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=west;fontStyle=4;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="90" y="-40" width="430" height="330" as="geometry" />
+          <mxGeometry x="80" y="-40" width="430" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="8D18BodJRawXIVwckZ6U-4" value="&amp;lt;&amp;lt;Device&amp;gt;&amp;gt;&lt;br&gt;: Simulator" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="115" y="20" width="380" height="240" as="geometry" />
+        <mxCell id="8D18BodJRawXIVwckZ6U-4" value="&amp;lt;&amp;lt;Device&amp;gt;&amp;gt;&lt;br&gt;: Simulator" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=#9b7168;" parent="1" vertex="1">
+          <mxGeometry x="105" y="20" width="380" height="240" as="geometry" />
         </mxCell>
         <mxCell id="4bXAtMRyAUHg97MmAKMX-1" value="&amp;lt;&amp;lt;Device&amp;gt;&amp;gt;&lt;br&gt;:Git Server" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-630" y="20" width="180" height="270" as="geometry" />
+          <mxGeometry x="-620" y="20" width="180" height="270" as="geometry" />
         </mxCell>
         <mxCell id="4bXAtMRyAUHg97MmAKMX-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="4bXAtMRyAUHg97MmAKMX-4" target="4bXAtMRyAUHg97MmAKMX-6" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -494,7 +494,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4bXAtMRyAUHg97MmAKMX-4" value="&lt;div&gt;«Artifact»&lt;/div&gt;&lt;div&gt;&lt;b&gt;Integration Service&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="4bXAtMRyAUHg97MmAKMX-4" value="&lt;div&gt;«Artifact»&lt;/div&gt;&lt;div&gt;&lt;b&gt;Integration Service&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;fillColor=#ea3222;" parent="1" vertex="1">
           <mxGeometry x="-170" y="80" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4bXAtMRyAUHg97MmAKMX-5" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="4bXAtMRyAUHg97MmAKMX-4" vertex="1">
@@ -510,7 +510,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4bXAtMRyAUHg97MmAKMX-6" value="&lt;div&gt;«Component»&lt;/div&gt;&lt;div&gt;&lt;b&gt;Expo dev server&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="4bXAtMRyAUHg97MmAKMX-6" value="&lt;div&gt;«Component»&lt;/div&gt;&lt;div&gt;&lt;b&gt;Expo dev server&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;fillColor=#808080;" parent="1" vertex="1">
           <mxGeometry x="-170" y="200" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4bXAtMRyAUHg97MmAKMX-7" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="4bXAtMRyAUHg97MmAKMX-6" vertex="1">
@@ -524,16 +524,16 @@
         <mxCell id="4bXAtMRyAUHg97MmAKMX-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="4bXAtMRyAUHg97MmAKMX-8" target="4bXAtMRyAUHg97MmAKMX-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4bXAtMRyAUHg97MmAKMX-8" value="&lt;div&gt;«Artifact»&lt;/div&gt;&lt;div&gt;&lt;b&gt;Expo GO&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="165" y="70" width="140" height="70" as="geometry" />
+        <mxCell id="4bXAtMRyAUHg97MmAKMX-8" value="&lt;div&gt;«Artifact»&lt;/div&gt;&lt;div&gt;&lt;b&gt;Expo GO&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;fillColor=#808080;" parent="1" vertex="1">
+          <mxGeometry x="155" y="70" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4bXAtMRyAUHg97MmAKMX-9" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="4bXAtMRyAUHg97MmAKMX-8" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4bXAtMRyAUHg97MmAKMX-10" value="&lt;div&gt;«Artifact»&lt;/div&gt;&lt;div&gt;&lt;b&gt;Test Bundle&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="165" y="175" width="140" height="70" as="geometry" />
+        <mxCell id="4bXAtMRyAUHg97MmAKMX-10" value="&lt;div&gt;«Artifact»&lt;/div&gt;&lt;div&gt;&lt;b&gt;Test Bundle&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;fillColor=#68339a;" parent="1" vertex="1">
+          <mxGeometry x="155" y="175" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4bXAtMRyAUHg97MmAKMX-11" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="4bXAtMRyAUHg97MmAKMX-10" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -549,7 +549,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4bXAtMRyAUHg97MmAKMX-19" value="&lt;div&gt;«Artifact»&lt;/div&gt;&lt;div&gt;&lt;b&gt;HTTP server&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-615" y="80" width="140" height="70" as="geometry" />
+          <mxGeometry x="-605" y="80" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4bXAtMRyAUHg97MmAKMX-20" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="4bXAtMRyAUHg97MmAKMX-19" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -560,7 +560,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4bXAtMRyAUHg97MmAKMX-21" value="&lt;div&gt;«Artifact»&lt;/div&gt;&lt;div&gt;&lt;b&gt;Git repository&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-615" y="190" width="140" height="70" as="geometry" />
+          <mxGeometry x="-605" y="190" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4bXAtMRyAUHg97MmAKMX-22" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="4bXAtMRyAUHg97MmAKMX-21" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -590,10 +590,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4bXAtMRyAUHg97MmAKMX-38" value="&amp;lt;&amp;lt;Device&amp;gt;&amp;gt;&lt;br&gt;: PC" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-635" y="360" width="200" height="150" as="geometry" />
+          <mxGeometry x="-620" y="360" width="180" height="150" as="geometry" />
         </mxCell>
         <mxCell id="4bXAtMRyAUHg97MmAKMX-39" value="&lt;div&gt;«Component»&lt;/div&gt;&lt;div&gt;&lt;b&gt;Slack&lt;/b&gt; App&lt;br&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-615" y="420" width="150" height="60" as="geometry" />
+          <mxGeometry x="-610" y="420" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4bXAtMRyAUHg97MmAKMX-40" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="4bXAtMRyAUHg97MmAKMX-39" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -625,7 +625,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4bXAtMRyAUHg97MmAKMX-57" value="&lt;div&gt;«Artifact»&lt;/div&gt;&lt;div&gt;&lt;b&gt;JavaScript App bundle&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="325" y="70" width="140" height="70" as="geometry" />
+          <mxGeometry x="315" y="70" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4bXAtMRyAUHg97MmAKMX-58" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="4bXAtMRyAUHg97MmAKMX-57" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
