@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T19:45:19.972Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="t9fr5et5kKUiiAgltIBC" version="24.0.4" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-03-13T19:45:53.815Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="he6UR2QTMXCIglaoL6Ls" version="24.0.4" type="github" pages="9">
   <diagram name="Process view" id="xtW_IwAfQOxbv-dFsDVF">
     <mxGraphModel dx="1885" dy="1005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1115,7 +1115,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kGWpn0vovmn93VAM6XY1-4" value=":ChatGPT4" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dd8243;" parent="1" vertex="1">
+        <mxCell id="kGWpn0vovmn93VAM6XY1-4" value="&lt;font color=&quot;#ffffff&quot;&gt;:ChatGPT4&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dd8243;" parent="1" vertex="1">
           <mxGeometry x="-120" y="80" width="100" height="560" as="geometry" />
         </mxCell>
         <mxCell id="GapbUnoQtFqPIqlSePOD-16" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="kGWpn0vovmn93VAM6XY1-4" vertex="1">
@@ -1135,7 +1135,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kGWpn0vovmn93VAM6XY1-2" value="&lt;div&gt;:Integratie &lt;/div&gt;service" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#EA3222;" parent="1" vertex="1">
+        <mxCell id="kGWpn0vovmn93VAM6XY1-2" value="&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;:Integratie &lt;/font&gt;&lt;/div&gt;&lt;font color=&quot;#ffffff&quot;&gt;service&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#EA3222;" parent="1" vertex="1">
           <mxGeometry x="-320" y="80" width="110" height="560" as="geometry" />
         </mxCell>
         <mxCell id="GapbUnoQtFqPIqlSePOD-4" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="kGWpn0vovmn93VAM6XY1-2" vertex="1">
@@ -1194,7 +1194,7 @@
             <mxPoint x="26" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GapbUnoQtFqPIqlSePOD-21" value=":Simulator" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#9b7168;" parent="1" vertex="1">
+        <mxCell id="GapbUnoQtFqPIqlSePOD-21" value="&lt;font color=&quot;#ffffff&quot;&gt;:Simulator&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#9b7168;" parent="1" vertex="1">
           <mxGeometry x="300" y="80" width="100" height="560" as="geometry" />
         </mxCell>
         <mxCell id="GapbUnoQtFqPIqlSePOD-22" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="GapbUnoQtFqPIqlSePOD-21" vertex="1">
@@ -1216,7 +1216,7 @@
             <mxPoint x="250" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GapbUnoQtFqPIqlSePOD-31" value=":React Devtools" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#7dab54;" parent="1" vertex="1">
+        <mxCell id="GapbUnoQtFqPIqlSePOD-31" value="&lt;font color=&quot;#ffffff&quot;&gt;:React Devtools&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#7dab54;" parent="1" vertex="1">
           <mxGeometry x="520" y="80" width="100" height="560" as="geometry" />
         </mxCell>
         <mxCell id="GapbUnoQtFqPIqlSePOD-32" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="GapbUnoQtFqPIqlSePOD-31" vertex="1">
