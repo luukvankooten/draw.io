@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T19:49:08.591Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="Xv0kJGt-UIQ-T0YDNgAG" version="24.0.4" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-03-13T19:50:25.004Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="jwm9XzJaBa2_-yFo1guZ" version="24.0.4" type="github" pages="9">
   <diagram name="Process view" id="xtW_IwAfQOxbv-dFsDVF">
     <mxGraphModel dx="1885" dy="1005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1488,17 +1488,17 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wCCjQzUOOVpSms_l7VVc" name="Use-case-Click-Element">
-    <mxGraphModel dx="2901" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2901" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Clh22ugtN5b6BO1eXiuU-1" value="&lt;div&gt;:React dev tools&lt;br&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+        <mxCell id="Clh22ugtN5b6BO1eXiuU-1" value="&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;:React dev tools&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#7dab54;" parent="1" vertex="1">
           <mxGeometry x="-200" y="160" width="100" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="Clh22ugtN5b6BO1eXiuU-3" value="&lt;div&gt;:Integration&lt;/div&gt;&lt;div&gt;service&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+        <mxCell id="Clh22ugtN5b6BO1eXiuU-3" value="&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;:Integration&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;service&lt;/font&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ea3222;" parent="1" vertex="1">
           <mxGeometry x="160" y="160" width="100" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="Clh22ugtN5b6BO1eXiuU-4" value="&lt;div&gt;:Test Bundle&lt;br&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+        <mxCell id="Clh22ugtN5b6BO1eXiuU-4" value="&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;:Test Bundle&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#68339A;" parent="1" vertex="1">
           <mxGeometry x="-20" y="160" width="100" height="560" as="geometry" />
         </mxCell>
         <mxCell id="Clh22ugtN5b6BO1eXiuU-5" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="Clh22ugtN5b6BO1eXiuU-4" vertex="1">
@@ -1557,7 +1557,7 @@
             <mxPoint x="225" y="460.0000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Clh22ugtN5b6BO1eXiuU-19" value="&lt;div&gt;:Simulator&lt;br&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+        <mxCell id="Clh22ugtN5b6BO1eXiuU-19" value="&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;:Simulator&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#9b7168;" parent="1" vertex="1">
           <mxGeometry x="-380" y="160" width="100" height="560" as="geometry" />
         </mxCell>
         <mxCell id="Clh22ugtN5b6BO1eXiuU-20" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="Clh22ugtN5b6BO1eXiuU-19" vertex="1">
