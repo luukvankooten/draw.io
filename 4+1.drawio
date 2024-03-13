@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T19:39:44.223Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="d840Ry6AbAS-eDjE5-T9" version="24.0.4" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-03-13T19:41:39.404Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="ocT_6f6Nvuagunu1BkgN" version="24.0.4" type="github" pages="9">
   <diagram name="Process view" id="xtW_IwAfQOxbv-dFsDVF">
     <mxGraphModel dx="1885" dy="1005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -469,6 +469,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Oe2Tej4FjZJy2Z02zUqE-1" value="&amp;lt;&amp;lt;Device&amp;gt;&amp;gt;&lt;br&gt;: ChatGPT4 Server" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=west;fontStyle=4;html=1;whiteSpace=wrap;fillColor=#dd8243;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-30" width="210" height="230" as="geometry" />
+        </mxCell>
         <mxCell id="4bXAtMRyAUHg97MmAKMX-37" value="&amp;lt;&amp;lt;Device&amp;gt;&amp;gt;&lt;br&gt;: Slack Server" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=#f5c242;" parent="1" vertex="1">
           <mxGeometry x="-360" y="329" width="190" height="240" as="geometry" />
         </mxCell>
@@ -476,23 +479,13 @@
           <mxGeometry x="-360" y="-60" width="360" height="350" as="geometry" />
         </mxCell>
         <mxCell id="8D18BodJRawXIVwckZ6U-1" value="&amp;lt;&amp;lt;Device&amp;gt;&amp;gt;&lt;br&gt;: Cloud Mac Mini" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=west;fontStyle=4;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry y="330" width="430" height="330" as="geometry" />
+          <mxGeometry x="-5" y="355" width="430" height="380" as="geometry" />
         </mxCell>
         <mxCell id="8D18BodJRawXIVwckZ6U-4" value="&amp;lt;&amp;lt;Device&amp;gt;&amp;gt;&lt;br&gt;: Simulator" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=#9b7168;" parent="1" vertex="1">
-          <mxGeometry x="25" y="390" width="380" height="240" as="geometry" />
+          <mxGeometry x="20" y="465" width="380" height="240" as="geometry" />
         </mxCell>
         <mxCell id="4bXAtMRyAUHg97MmAKMX-1" value="&amp;lt;&amp;lt;Device&amp;gt;&amp;gt;&lt;br&gt;:Git Server" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-620" y="20" width="180" height="270" as="geometry" />
-        </mxCell>
-        <mxCell id="4bXAtMRyAUHg97MmAKMX-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="4bXAtMRyAUHg97MmAKMX-4" target="4bXAtMRyAUHg97MmAKMX-6" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9iGNenV5Y6UUkjngryDH-1" value="TCP / IP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="4bXAtMRyAUHg97MmAKMX-14" vertex="1" connectable="0">
-          <mxGeometry x="-0.103" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="etRSkUlctfRk39ewFzqS-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="4bXAtMRyAUHg97MmAKMX-4" target="etRSkUlctfRk39ewFzqS-1">
           <mxGeometry relative="1" as="geometry" />
@@ -510,15 +503,25 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4bXAtMRyAUHg97MmAKMX-16" value="HTTP" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;startArrow=classic;startFill=1;" parent="1" source="4bXAtMRyAUHg97MmAKMX-6" target="4bXAtMRyAUHg97MmAKMX-8" edge="1">
+        <mxCell id="4bXAtMRyAUHg97MmAKMX-16" value="HTTPS" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=classic;startFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4bXAtMRyAUHg97MmAKMX-4" target="4bXAtMRyAUHg97MmAKMX-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="185" y="235" />
+              <mxPoint x="-100" y="310" />
+              <mxPoint x="290" y="310" />
             </Array>
+            <mxPoint x="-35" y="310" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="etRSkUlctfRk39ewFzqS-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="4bXAtMRyAUHg97MmAKMX-6" target="4bXAtMRyAUHg97MmAKMX-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="etRSkUlctfRk39ewFzqS-10" value="HTTP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="etRSkUlctfRk39ewFzqS-9">
+          <mxGeometry x="0.0157" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4bXAtMRyAUHg97MmAKMX-6" value="&lt;div&gt;«Component»&lt;/div&gt;&lt;div&gt;&lt;b&gt;Expo dev server&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;fillColor=#808080;" parent="1" vertex="1">
-          <mxGeometry x="-170" y="200" width="140" height="70" as="geometry" />
+          <mxGeometry x="220" y="369" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4bXAtMRyAUHg97MmAKMX-7" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="4bXAtMRyAUHg97MmAKMX-6" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -532,7 +535,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4bXAtMRyAUHg97MmAKMX-8" value="&lt;div&gt;«Artifact»&lt;/div&gt;&lt;div&gt;&lt;b&gt;Expo GO&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;fillColor=#808080;" parent="1" vertex="1">
-          <mxGeometry x="75" y="440" width="140" height="70" as="geometry" />
+          <mxGeometry x="70" y="515" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4bXAtMRyAUHg97MmAKMX-9" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="4bXAtMRyAUHg97MmAKMX-8" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -540,7 +543,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4bXAtMRyAUHg97MmAKMX-10" value="&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;«Artifact»&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;Test Bundle&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;fillColor=#68339a;" parent="1" vertex="1">
-          <mxGeometry x="75" y="545" width="140" height="70" as="geometry" />
+          <mxGeometry x="70" y="620" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4bXAtMRyAUHg97MmAKMX-11" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="4bXAtMRyAUHg97MmAKMX-10" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -635,7 +638,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4bXAtMRyAUHg97MmAKMX-57" value="&lt;div&gt;«Artifact»&lt;/div&gt;&lt;div&gt;&lt;b&gt;JavaScript App bundle&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="235" y="440" width="140" height="70" as="geometry" />
+          <mxGeometry x="230" y="515" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4bXAtMRyAUHg97MmAKMX-58" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="4bXAtMRyAUHg97MmAKMX-57" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -652,9 +655,6 @@
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Oe2Tej4FjZJy2Z02zUqE-1" value="&amp;lt;&amp;lt;Device&amp;gt;&amp;gt;&lt;br&gt;: ChatGPT4 Server" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=west;fontStyle=4;html=1;whiteSpace=wrap;fillColor=#dd8243;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-30" width="210" height="230" as="geometry" />
         </mxCell>
         <mxCell id="Oe2Tej4FjZJy2Z02zUqE-2" value="«Component»&lt;div&gt;API&lt;br&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="100" y="105" width="150" height="60" as="geometry" />
