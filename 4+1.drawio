@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T19:33:32.551Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="gYGEnt-CjvWcoC-rGf_q" version="24.0.4" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-03-13T19:35:03.243Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="kYTsAAiNNktIVbaVwRVn" version="24.0.4" type="github" pages="9">
   <diagram name="Process view" id="xtW_IwAfQOxbv-dFsDVF">
     <mxGraphModel dx="1885" dy="1005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -494,7 +494,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4bXAtMRyAUHg97MmAKMX-4" value="&lt;div&gt;«Artifact»&lt;/div&gt;&lt;div&gt;&lt;b&gt;Integration Service&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;fillColor=#ea3222;" parent="1" vertex="1">
+        <mxCell id="4bXAtMRyAUHg97MmAKMX-4" value="&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;«Artifact»&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;Integration Service&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;fillColor=#ea3222;" parent="1" vertex="1">
           <mxGeometry x="-170" y="80" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4bXAtMRyAUHg97MmAKMX-5" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="4bXAtMRyAUHg97MmAKMX-4" vertex="1">
@@ -532,7 +532,7 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4bXAtMRyAUHg97MmAKMX-10" value="&lt;div&gt;«Artifact»&lt;/div&gt;&lt;div&gt;&lt;b&gt;Test Bundle&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;fillColor=#68339a;" parent="1" vertex="1">
+        <mxCell id="4bXAtMRyAUHg97MmAKMX-10" value="&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;«Artifact»&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;Test Bundle&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;fillColor=#68339a;" parent="1" vertex="1">
           <mxGeometry x="155" y="175" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4bXAtMRyAUHg97MmAKMX-11" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="4bXAtMRyAUHg97MmAKMX-10" vertex="1">
@@ -657,7 +657,7 @@
         <mxCell id="YVzsKiH8ptABr0AlUkex-12" value="&lt;font color=&quot;#ffffff&quot;&gt;Integration Service&lt;/font&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=#ea3222;" parent="1" vertex="1">
           <mxGeometry x="-380" y="60" width="490" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="_2w_KYmjHKZsVjX7bust-1" value="OpenAI" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=#dd8243;" parent="1" vertex="1">
+        <mxCell id="_2w_KYmjHKZsVjX7bust-1" value="ChatGPT4" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=#dd8243;" parent="1" vertex="1">
           <mxGeometry x="-720" y="60" width="230" height="390" as="geometry" />
         </mxCell>
         <mxCell id="_2w_KYmjHKZsVjX7bust-2" value="Expo" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=#808080;" parent="1" vertex="1">
@@ -666,7 +666,7 @@
         <mxCell id="_2w_KYmjHKZsVjX7bust-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="_2w_KYmjHKZsVjX7bust-4" target="_2w_KYmjHKZsVjX7bust-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_2w_KYmjHKZsVjX7bust-4" value="«component»&lt;br&gt;&lt;b&gt;API&lt;br&gt;&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="_2w_KYmjHKZsVjX7bust-4" value="«component»&lt;br&gt;&lt;b&gt;Rest-API&lt;br&gt;&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-700" y="100" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="_2w_KYmjHKZsVjX7bust-5" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="_2w_KYmjHKZsVjX7bust-4" vertex="1">
@@ -762,7 +762,7 @@
             <mxPoint x="-11" y="-18" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_2w_KYmjHKZsVjX7bust-36" value="«&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Library&lt;/code&gt;»&lt;b&gt;&lt;br&gt;OpenAI&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;fillColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="_2w_KYmjHKZsVjX7bust-36" value="&lt;div&gt;«&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Library&lt;/code&gt;»&lt;/div&gt;&lt;b&gt;ChatGPT4&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;fillColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-360" y="100" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="_2w_KYmjHKZsVjX7bust-37" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="_2w_KYmjHKZsVjX7bust-36" vertex="1">
@@ -1075,7 +1075,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kGWpn0vovmn93VAM6XY1-4" value=":OpenAI" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+        <mxCell id="kGWpn0vovmn93VAM6XY1-4" value=":ChatGPT4" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="-120" y="80" width="100" height="560" as="geometry" />
         </mxCell>
         <mxCell id="GapbUnoQtFqPIqlSePOD-16" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="kGWpn0vovmn93VAM6XY1-4" vertex="1">
@@ -1095,7 +1095,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kGWpn0vovmn93VAM6XY1-2" value="&lt;div&gt;:Integratie &lt;/div&gt;service" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+        <mxCell id="kGWpn0vovmn93VAM6XY1-2" value="&lt;div&gt;:Integratie &lt;/div&gt;service" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#EA3222;" parent="1" vertex="1">
           <mxGeometry x="-320" y="80" width="110" height="560" as="geometry" />
         </mxCell>
         <mxCell id="GapbUnoQtFqPIqlSePOD-4" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="kGWpn0vovmn93VAM6XY1-2" vertex="1">
