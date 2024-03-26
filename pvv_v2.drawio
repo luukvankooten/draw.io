@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T08:55:50.402Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="tRcQ0f8lGmYxCuNvC2Ry" version="24.0.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-03-26T08:59:53.593Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="CI-HcXSImd0Oo5W_469T" version="24.0.7" type="github" pages="4">
   <diagram name="Appium architctuur" id="hKcO_0s5mo-h2Wf3OVIf">
     <mxGraphModel dx="2074" dy="1182" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-RNJMT59CGSFPaLU__ST" name="Command line applicatie">
-    <mxGraphModel dx="3728" dy="1182" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -198,7 +198,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xbFjXwkv56K9lPZzTfYl" name="Pull request bot">
-    <mxGraphModel dx="3774" dy="2282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
