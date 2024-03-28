@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-28T12:28:22.829Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="u4J8Olu_GjgkBgSY9Mek" version="24.0.7" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-03-28T12:30:41.029Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="9sPeXsQ34St_LqIeOWe8" version="24.0.7" type="github" pages="10">
   <diagram name="Process view" id="xtW_IwAfQOxbv-dFsDVF">
-    <mxGraphModel dx="10370" dy="5670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2963" dy="1620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -264,7 +264,7 @@
           <mxGeometry x="850" width="200" height="1960" as="geometry" />
         </mxCell>
         <mxCell id="xERr7fgKE-sxGU6G2vDV-20" value="Send operations message" style="rounded=1;whiteSpace=wrap;html=1;" parent="bN4DebVevD63My_hLO4A-1" vertex="1">
-          <mxGeometry x="40" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
