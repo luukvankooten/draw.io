@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-28T14:10:56.756Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:124.0) Gecko/20100101 Firefox/124.0" etag="XtNopLkugL0MQgPnaZXN" version="24.0.7" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-03-28T14:52:35.443Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:124.0) Gecko/20100101 Firefox/124.0" etag="70j0b4TKRPN9Ome7mokq" version="24.0.7" type="github" pages="10">
   <diagram name="Appium architctuur" id="hKcO_0s5mo-h2Wf3OVIf">
     <mxGraphModel dx="2074" dy="1182" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1372,6 +1372,21 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UTOJwLEP21Dbc-FCUr61-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UTOJwLEP21Dbc-FCUr61-3" target="UTOJwLEP21Dbc-FCUr61-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UTOJwLEP21Dbc-FCUr61-3" value="Front-end project" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UTOJwLEP21Dbc-FCUr61-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UTOJwLEP21Dbc-FCUr61-4" target="UTOJwLEP21Dbc-FCUr61-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UTOJwLEP21Dbc-FCUr61-4" value="Front" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UTOJwLEP21Dbc-FCUr61-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
