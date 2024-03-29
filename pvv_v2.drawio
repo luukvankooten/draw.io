@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-28T14:52:35.443Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:124.0) Gecko/20100101 Firefox/124.0" etag="70j0b4TKRPN9Ome7mokq" version="24.0.7" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-03-29T08:41:25.510Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:124.0) Gecko/20100101 Firefox/124.0" etag="HSPFHzYTUwSo-lxepb-A" version="24.1.0" type="github" pages="10">
   <diagram name="Appium architctuur" id="hKcO_0s5mo-h2Wf3OVIf">
     <mxGraphModel dx="2074" dy="1182" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1184,7 +1184,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="S_f0sNTj6YsBg4hI1rya" name="InputElemente">
-    <mxGraphModel dx="2963" dy="2749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="2254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1236,8 +1236,23 @@
         <mxCell id="I0H3tl3ns4Hha5d0g1Oj-26" value="Legenda" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="410" y="-90" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7CHeOpZP-PNkcXAPTZHB-2" value="scherm" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="7CHeOpZP-PNkcXAPTZHB-2" value="scherm" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="60" y="-90" width="330" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qs40kb3vWcGhe0Jli2xk-1" value="&lt;div&gt;Overige&amp;nbsp;&lt;/div&gt;&lt;div&gt;elementen&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="410" y="40" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Qs40kb3vWcGhe0Jli2xk-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#0000CC;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="420" y="52.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qs40kb3vWcGhe0Jli2xk-4" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=#0000CC;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="79.51" y="22.5" width="290.49" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Qs40kb3vWcGhe0Jli2xk-5" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=#0000CC;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80.05" y="60" width="290.49" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Qs40kb3vWcGhe0Jli2xk-6" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=#0000CC;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80.05" y="-15" width="290.49" height="37.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
