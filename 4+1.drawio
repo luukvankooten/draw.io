@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-22T09:21:04.321Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:126.0) Gecko/20100101 Firefox/126.0" etag="9WZL-LdaOHH-BCFDsl2K" version="24.4.0" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-05-28T07:20:26.202Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:126.0) Gecko/20100101 Firefox/126.0" etag="wr1c6sCyrPjuXJgq469x" version="24.4.6" type="github" pages="10">
   <diagram name="Process view" id="xtW_IwAfQOxbv-dFsDVF">
-    <mxGraphModel dx="11673" dy="7887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1183" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,7 +24,7 @@
             <mxPoint x="100" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xERr7fgKE-sxGU6G2vDV-23" value="&lt;div&gt;Process operations&amp;nbsp;&lt;/div&gt;&lt;div&gt;to&lt;/div&gt;&lt;div&gt;UI hierarchy&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="xERr7fgKE-sxGU6G2vDV-1" vertex="1">
+        <mxCell id="xERr7fgKE-sxGU6G2vDV-23" value="&lt;div&gt;Process operations&amp;nbsp;&lt;/div&gt;&lt;div&gt;to&lt;/div&gt;&lt;div&gt;XML/HTML&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="xERr7fgKE-sxGU6G2vDV-1" vertex="1">
           <mxGeometry x="40" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xERr7fgKE-sxGU6G2vDV-37" value="Send prompt to ChatGPT" style="rounded=1;whiteSpace=wrap;html=1;" parent="xERr7fgKE-sxGU6G2vDV-1" vertex="1">
@@ -201,7 +201,7 @@
         <mxCell id="xERr7fgKE-sxGU6G2vDV-18" value="Evaluate&lt;br&gt;test setup script" style="rounded=1;whiteSpace=wrap;html=1;" parent="O075XEn-IYkE8U-V3ndY-1" vertex="1">
           <mxGeometry x="40" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0mI9k-WudM_Z0f9VKvVL-1" value="&lt;div&gt;Click or set text&lt;/div&gt;&lt;div&gt;on input element&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="O075XEn-IYkE8U-V3ndY-1">
+        <mxCell id="0mI9k-WudM_Z0f9VKvVL-1" value="&lt;div&gt;Click or set text&lt;/div&gt;&lt;div&gt;on input element&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="O075XEn-IYkE8U-V3ndY-1" vertex="1">
           <mxGeometry x="40" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xERr7fgKE-sxGU6G2vDV-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="xERr7fgKE-sxGU6G2vDV-12" target="xERr7fgKE-sxGU6G2vDV-14" edge="1">
@@ -240,10 +240,10 @@
         <mxCell id="xERr7fgKE-sxGU6G2vDV-20" value="Send operations message" style="rounded=1;whiteSpace=wrap;html=1;" parent="bN4DebVevD63My_hLO4A-1" vertex="1">
           <mxGeometry x="40" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0mI9k-WudM_Z0f9VKvVL-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xERr7fgKE-sxGU6G2vDV-52" target="0mI9k-WudM_Z0f9VKvVL-1">
+        <mxCell id="0mI9k-WudM_Z0f9VKvVL-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xERr7fgKE-sxGU6G2vDV-52" target="0mI9k-WudM_Z0f9VKvVL-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0mI9k-WudM_Z0f9VKvVL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0mI9k-WudM_Z0f9VKvVL-1" target="xERr7fgKE-sxGU6G2vDV-56">
+        <mxCell id="0mI9k-WudM_Z0f9VKvVL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="0mI9k-WudM_Z0f9VKvVL-1" target="xERr7fgKE-sxGU6G2vDV-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
