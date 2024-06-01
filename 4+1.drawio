@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-01T19:16:02.272Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:126.0) Gecko/20100101 Firefox/126.0" etag="85vEC_j9OajLncVs16FH" version="24.4.13" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-06-01T19:21:14.812Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:126.0) Gecko/20100101 Firefox/126.0" etag="Nrxq690FnVlfBG0JjrIl" version="24.4.13" type="github" pages="10">
   <diagram name="Process view" id="xtW_IwAfQOxbv-dFsDVF">
-    <mxGraphModel dx="2074" dy="1183" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,10 +33,10 @@
         <mxCell id="xERr7fgKE-sxGU6G2vDV-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="xERr7fgKE-sxGU6G2vDV-1" source="xERr7fgKE-sxGU6G2vDV-44" target="xERr7fgKE-sxGU6G2vDV-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xERr7fgKE-sxGU6G2vDV-44" value="Convert prompt&lt;br&gt;to event" style="rounded=1;whiteSpace=wrap;html=1;" parent="xERr7fgKE-sxGU6G2vDV-1" vertex="1">
+        <mxCell id="xERr7fgKE-sxGU6G2vDV-44" value="Convert JSON event&lt;br&gt;to domain object" style="rounded=1;whiteSpace=wrap;html=1;" parent="xERr7fgKE-sxGU6G2vDV-1" vertex="1">
           <mxGeometry x="40" y="850" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xERr7fgKE-sxGU6G2vDV-48" value="Send event &lt;br&gt;to device" style="rounded=1;whiteSpace=wrap;html=1;" parent="xERr7fgKE-sxGU6G2vDV-1" vertex="1">
+        <mxCell id="xERr7fgKE-sxGU6G2vDV-48" value="Send domain object&lt;br&gt;to device" style="rounded=1;whiteSpace=wrap;html=1;" parent="xERr7fgKE-sxGU6G2vDV-1" vertex="1">
           <mxGeometry x="40" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8Tp1KOEyDdpbdUJ0BFN6-22" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="xERr7fgKE-sxGU6G2vDV-1" source="xERr7fgKE-sxGU6G2vDV-56" target="xERr7fgKE-sxGU6G2vDV-90" edge="1">
